@@ -1,0 +1,17 @@
+clc;clear; close all;
+
+train = [];
+apple = buahciri('buah/apel/');
+train = [train apple];
+
+apple = buahciri('buah/apel/');
+train = [train apple];
+
+apple = buahciri('buah/apel/');
+train = [train apple];
+
+apple = buahciri('buah/apel/');
+train = [train apple];
+
+apple = buahciri('buah/apel/');
+train = [train apple];
